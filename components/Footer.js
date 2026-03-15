@@ -1,13 +1,13 @@
-import styles from './Footer.module.css'
+import styles from "./Footer.module.css";
 
 export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <a href="https://www.netlify.com" target="_blank" rel="noopener">
-          <img src="/logo-netlify.svg" alt="Netlify Logo" className={styles.logo} />
-        </a>
+        <p>
+          &copy; {new Date().getFullYear()} Avani Vaidya. All rights reserved.
+        </p>
       </footer>
     </>
-  )
+  );
 }
