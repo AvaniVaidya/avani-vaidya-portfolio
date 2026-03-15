@@ -366,8 +366,8 @@ export default function Home() {
                   <br />
                   <br /> {" · "}Engineered Spring Boot REST APIs with MySQL,
                   containerized with Docker, and deployed on AWS EC2, reducing
-                  environment setup time by <strong>70%</strong>
-                  while collaborating in Agile Scrum teams.
+                  environment setup time by <strong>70%</strong> while
+                  collaborating in Agile Scrum teams.
                 </p>
               </div>
             </div>
@@ -865,7 +865,7 @@ export default function Home() {
           </div>
 
           <p style={{ marginTop: "20px", color: "#111", fontSize: "1.15rem" }}>
-            Santa Clara, CA · Open to Software Engineering Opportunities
+            Santa Clara, CA · Open to Relocation
           </p>
         </section>
       </main>
